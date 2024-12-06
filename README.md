@@ -1,5 +1,1 @@
-# soap-web-service
-# soap-web-service
-# soap-web-service
-# soap-web-service
-# soap-web-service
+SOAP là từ viết tắt của cụm Simple Object Access Protocol. Đây đang là giao thức nhắn tin và cho phép những chương trình chạy trực tiếp trên nhiều hệ điều hành khác nhau (Linux và Windows,...) giao tiếp được cùng với nhau qua Ngôn ngữ XML và Giao thức HTTP.
